@@ -4,7 +4,7 @@
 
 [![Benrobo Page Github Stats](https://github-readme-stats.vercel.app/api?username=benrobo&show_icons=true&theme=dracula)](https://github.com/benrobo/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benrobo&layout=compact)](https://github.com/benrobo/github-readme-stats)
 <!--
 **Benrobo/Benrobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
