@@ -6,7 +6,7 @@
 
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benrobo&layout=compact)](https://github.com/benrobo/github-readme-stats)</span>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benrobo)](https://github.com/benrobo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=benrobo&theme=onedark)](https://github.com/benrobo/github-profile-trophy)
 
 <!--
 **Benrobo/Benrobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
