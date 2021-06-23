@@ -11,9 +11,6 @@
     <a href="https://www.youtube.com/channel/UCVzQyQe-OxsBpQY1jA2xo3w">
       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVzQyQe-OxsBpQY1jA2xo3w?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d">
     </a>
-    <a href="https://discord.gg/FrQkeWvnku">
-      <img alt="Discord" src="https://img.shields.io/discord/837968414232281119?color=7289da&label=Discord&logo=discord&style=for-the-badge">
-    </a>
   </p>
 </p>
 
