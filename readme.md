@@ -1,4 +1,4 @@
-![alt text](https://github.com/Benrobo/Profile-Image/blob/main/Screenshot%20(190).png)
+![alt text](https://github.com/Benrobo/Benrobo/blob/main/Group%2024.png)
 
 ## Social
 
