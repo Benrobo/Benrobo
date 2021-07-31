@@ -37,7 +37,6 @@
 - <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 - <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 - <img alt="Mysql" src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-- <img alt="Mysql" src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <h2>Github Views</h2>
 
