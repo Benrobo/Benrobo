@@ -3,7 +3,7 @@
 ## Social
 
 <p align="center">
-  <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
+  <img src="https://raw.githubusercontent.com/Benrobo/Benrobo/main/Successes.gif" width="100px"/>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCVzQyQe-OxsBpQY1jA2xo3w">
       <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCVzQyQe-OxsBpQY1jA2xo3w?color=red&logo=youtube&style=for-the-badge&labelColor=ce4630">
