@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/Benrobo/Benrobo/main/Successes.gif)
-
 Hi 👋 My name is Benaiah Alumona
 ================================
 
