@@ -1,4 +1,4 @@
-Hi 👋 My name is Benaiah Alumona
+Hi 👋 My name is Benaiah
 ================================
 
 Software Engineer
