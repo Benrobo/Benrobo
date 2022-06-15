@@ -1,4 +1,4 @@
-Hi 👋 My name is Benaiah
+Hi 👋, I'm Benaiah
 ================================
 
 Software Engineer
