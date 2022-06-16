@@ -1,17 +1,17 @@
-Hi 👋, I'm Benaiah
-================================
+Hi 👋,I'm Benaiah
+===============================
 
 Software Engineer
------------------
+------------------
 
 Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.That's why I’m excited to make a big impact at a high growth company
 
-* 🌍  I'm based in nigeria
+* 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [alumonabenaiah71@gmail.com](mailto:alumonabenaiah71@gmail.com)
 * 🚀  I'm currently working on [@FlixMenu](http://twitter.com/flixxmenu)
 * 🧠  I'm learning Software Design Patterns, Prisma , Python / Django, DSA
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup
-* ⚡  a.k.a Benrobo
+* ⚡  Love building intuitive products.
 
 <a href="https://www.twitter.com/benaiah_al" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/benaiah_al?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
