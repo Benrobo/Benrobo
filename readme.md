@@ -11,8 +11,8 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 * ✉️  You can contact me at [alumonabenaiah71@gmail.com](mailto:alumonabenaiah71@gmail.com)
 * 🚀  I'm currently working on [@FlixMenu](http://twitter.com/flixxmenu)
 * 🧠  I'm learning Software Design Patterns, Prisma , Python / Django, DSA
-* 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup
-* ⚡  Love building intuitive products.
+* 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend.
+* ⚡  Ask me about Typescript, Nodejs, C, Golang.
 
 <a href="https://www.twitter.com/benaiah_al" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/benaiah_al?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
