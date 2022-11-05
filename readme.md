@@ -10,7 +10,7 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 * 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [alumonabenaiah71@gmail.com](mailto:alumonabenaiah71@gmail.com)
 * 🚀  I'm currently working on [@FlixMenu](http://twitter.com/flixxmenu)
-* 🧠  I'm learning Software Design Patterns, Prisma , Python / Django, DSA
+* 🧠  I'm learning Software Design Patterns, Prisma , Golang, Typescript, DSA
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend.
 * ⚡  Ask me about Typescript, Nodejs, C, Golang.
 
