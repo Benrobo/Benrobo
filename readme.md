@@ -7,7 +7,7 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 
 * 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [alumonabenaiah71@gmail.com](mailto:alumonabenaiah71@gmail.com)
-* 🚀  I'm currently working on [@wisk](http://twitter.com/trywisk)
+* 🚀  I'm currently working on **A tool to solve my day to day problems**
 * 🧠  I'm learning Software Design Patterns, Prisma , Golang, Typescript, DSA
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend.
 * ⚡  Ask me about Typescript, React, Nodejs, React Native, Golang.
