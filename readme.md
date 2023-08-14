@@ -3,7 +3,22 @@ Hi 👋,I'm Benaiah..
 Software Engineer
 ------------------
 
-Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.That's why I’m excited to make a big impact at a high growth company
+I'm a chef who cooks but not in the kitchen, I solve problems for a living using 1s and 0s.  I'm a self-taught full stack engineer with experience in Backend, Frontend, and DevOps (still learning) for over 5 years.
+
+I've taken part in various international competitions and have been recognized multiple times. I was even certified as one of the top 300 participants globally in an internship program with over 11,000 participants. To date, I've engaged in 19 hackathons, winning 10 of them. These experiences have equipped me with the skills necessary for the software industry.
+
+
+Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. 
+
+As a  software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.
+
+I have maintained, developed and launched multiple projects from scratch, carrying the development of its' back-end and front-end codebases also scaling software applications.
+
+My current toolset includes Python, JavaScript, React, React Native, TypeScript, OOP, Googling, Prisma ORM, Nextjs, Tailwind CSS, Cloud , Golang, Nodejs, Express.js, Mongodb, Postgresql.
+
+I can help you with all the sides of your project:verifying good UI/UX design, leading/co-developing the back-end and front-end, mentoring the team, estimating tasks, researching possible techs, leading, launching and monitoring the project.
+
+Interested in working with any tech firm, Startups. Hit me up if you got any questions/feedbacks/gigs.
 
 * 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [alumonabenaiah71@gmail.com](mailto:alumonabenaiah71@gmail.com)
