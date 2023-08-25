@@ -5,7 +5,7 @@ Software Engineer
 
 I'm a chef who cooks but not in the kitchen, I solve problems for a living using 1s and 0s.  I'm a self-taught full stack engineer with experience in Backend, Frontend, and DevOps (still learning) for over 5 years.
 
-I've taken part in various international competitions and have been recognized multiple times. I was even certified as one of the top 300 participants globally in an internship program with over 11,000 participants. To date, I've engaged in 19 hackathons, winning 10 of them. These experiences have equipped me with the skills necessary for the software industry.
+I've taken part in various international competitions and have been recognized multiple times. I was even certified as one of the top 300 participants globally in an internship program with over 11,000 participants. To date, I've engaged in 21 hackathons (mostly international and locally), winning 10 of them. These experiences have equipped me with the skills necessary for the software industry.
 
 
 Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. 
