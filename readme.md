@@ -3,7 +3,7 @@ Hi 👋,I'm Benaiah.
 Software Engineer
 ------------------
 
-I'm a chef who cooks but not in the kitchen, I solve problems for a living using 1s and 0s.  I'm a self-taught full stack engineer with experience in Backend, Frontend, and DevOps for over 5 years.
+I'm a chef who cooks but not in the kitchen, I solve problems for a living using 1s and 0s.  I'm a self-taught fullstack engineer with experience in Backend, Frontend, and DevOps for over 6 years.
 
 I've taken part in various international competitions and have been recognized multiple times. I was even certified as one of the top 300 participants **(2x)** globally in an internship program with over 11,000 participants. To date, I've engaged in 23+ hackathons (mostly international and few locally), winning 15 of them and counting.
 
