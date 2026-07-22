@@ -177,24 +177,9 @@ Half of them are experiments, a few are load-bearing. queueflow, prospark, 4snap
 
 <img src="https://raw.githubusercontent.com/Benrobo/Benrobo/main/assets/divider.svg?v=6" width="100%" alt="" />
 
-## The receipts
+## By the numbers
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Benrobo&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B0E14&title_color=D9A441&text_color=E8E3D8&icon_color=3FB68B&ring_color=D9A441" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benrobo&layout=compact&langs_count=8&hide_border=true&bg_color=0B0E14&title_color=D9A441&text_color=E8E3D8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Benrobo&hide_border=true&background=0B0E14&stroke=1C2230&ring=D9A441&fire=C4553D&currStreakNum=E8E3D8&sideNums=D9A441&currStreakLabel=E8E3D8&sideLabels=8E97A5&dates=7A8290" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Benrobo&bg_color=0B0E14&color=E8E3D8&line=D9A441&point=3FB68B&area=true&area_color=D9A441&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Benrobo/Benrobo/output/snake.svg" alt="Contribution snake" />
-</p>
+<img src="https://raw.githubusercontent.com/Benrobo/Benrobo/main/assets/stats.svg?v=1" width="100%" alt="213 public repos, 6 products live and in dev, on GitHub since 2020, TypeScript as the default language with Go when it needs speed." />
 
 <img src="https://raw.githubusercontent.com/Benrobo/Benrobo/main/assets/divider.svg?v=7" width="100%" alt="" />
 

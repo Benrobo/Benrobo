@@ -1,0 +1,60 @@
+<svg width="1280" height="196" viewBox="0 0 1280 196" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="st">
+  <title id="st">By the numbers: 213 public repositories, 257 followers, building since 2020, 6 products live and in development.</title>
+  <defs>
+    <linearGradient id="sp" x1="28" y1="18" x2="1180" y2="178" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0C1017"/><stop offset="0.55" stop-color="#0A0D13"/><stop offset="1" stop-color="#08090E"/>
+    </linearGradient>
+    <linearGradient id="sgold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B9863A"/><stop offset="1" stop-color="#EBBB5A"/></linearGradient>
+    <linearGradient id="sgreen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2E8A68"/><stop offset="1" stop-color="#54C79A"/></linearGradient>
+    <linearGradient id="sclay" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A5432F"/><stop offset="1" stop-color="#D46A50"/></linearGradient>
+    <linearGradient id="sblue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4E7BA8"/><stop offset="1" stop-color="#7FA8D8"/></linearGradient>
+    <linearGradient id="sglint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EBBB5A" stop-opacity="0"/><stop offset="0.5" stop-color="#EBBB5A" stop-opacity="0.9"/><stop offset="1" stop-color="#EBBB5A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="sw" cx="0.5" cy="0.2" r="0.8"><stop offset="0" stop-color="#1B2634" stop-opacity="0.6"/><stop offset="1" stop-color="#0A0D13" stop-opacity="0"/></radialGradient>
+    <filter id="sglow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="sc"><rect x="28" y="18" width="1224" height="160" rx="20"/></clipPath>
+    <style>
+      .m{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace}
+      .d{font-family:Georgia,"Times New Roman",serif}
+      @keyframes sslide{0%{transform:translateX(-260px)}100%{transform:translateX(1250px)}}
+      @keyframes spulse{0%,100%{opacity:.75}50%{opacity:1}}
+      @keyframes sdot{0%,100%{opacity:.3}50%{opacity:1}}
+      .sglint{animation:sslide 7s linear infinite}
+      .snum{animation:spulse 3s ease-in-out infinite}
+      .sdot{animation:sdot 2.4s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <rect x="28" y="18" width="1224" height="160" rx="20" fill="url(#sp)" stroke="#171E29"/>
+  <g clip-path="url(#sc)"><rect x="28" y="18" width="1224" height="160" fill="url(#sw)"/></g>
+
+  <line x1="334" y1="52" x2="334" y2="144" stroke="#182130"/>
+  <line x1="640" y1="52" x2="640" y2="144" stroke="#182130"/>
+  <line x1="946" y1="52" x2="946" y2="144" stroke="#182130"/>
+
+  <text class="d snum" x="181" y="92" font-size="50" font-weight="700" fill="#EBBB5A" text-anchor="middle" filter="url(#sglow)">213</text>
+  <rect x="151" y="104" width="60" height="3" rx="1.5" fill="url(#sgold)"><animate attributeName="width" values="0;60" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/><animate attributeName="x" values="181;151" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="181" y="128" font-size="14" fill="#E8E3D8" text-anchor="middle">public repos</text>
+  <text class="m" x="181" y="148" font-size="11.5" fill="#6E7883" text-anchor="middle">shipped in the open</text>
+
+  <text class="d snum" x="487" y="92" font-size="50" font-weight="700" fill="#54C79A" text-anchor="middle" filter="url(#sglow)">6</text>
+  <rect x="457" y="104" width="60" height="3" rx="1.5" fill="url(#sgreen)"><animate attributeName="width" values="0;60" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/><animate attributeName="x" values="487;457" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="487" y="128" font-size="14" fill="#E8E3D8" text-anchor="middle">products</text>
+  <text class="m" x="487" y="148" font-size="11.5" fill="#6E7883" text-anchor="middle">live and in dev</text>
+
+  <text class="d snum" x="793" y="92" font-size="50" font-weight="700" fill="#7FA8D8" text-anchor="middle" filter="url(#sglow)">2020</text>
+  <rect x="763" y="104" width="60" height="3" rx="1.5" fill="url(#sblue)"><animate attributeName="width" values="0;60" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/><animate attributeName="x" values="793;763" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="793" y="128" font-size="14" fill="#E8E3D8" text-anchor="middle">on github since</text>
+  <text class="m" x="793" y="148" font-size="11.5" fill="#6E7883" text-anchor="middle">six years, self-taught</text>
+
+  <text class="d snum" x="1099" y="92" font-size="50" font-weight="700" fill="#D46A50" text-anchor="middle" filter="url(#sglow)">TS</text>
+  <rect x="1069" y="104" width="60" height="3" rx="1.5" fill="url(#sclay)"><animate attributeName="width" values="0;60" dur="0.9s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/><animate attributeName="x" values="1099;1069" dur="0.9s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1099" y="128" font-size="14" fill="#E8E3D8" text-anchor="middle">default language</text>
+  <text class="m" x="1099" y="148" font-size="11.5" fill="#6E7883" text-anchor="middle">go when it needs speed</text>
+
+  <line x1="28" y1="171" x2="1252" y2="171" stroke="#141B25"/>
+  <g clip-path="url(#sc)"><rect class="sglint" x="-260" y="170.2" width="260" height="1.8" fill="url(#sglint)"/></g>
+  <circle class="sdot" cx="46" cy="34" r="3" fill="#3FB68B"/>
+  <text class="m" x="58" y="38" font-size="11" fill="#4A5460">by the numbers</text>
+</svg>
