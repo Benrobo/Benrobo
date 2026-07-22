@@ -1,0 +1,133 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Benaiah Alumona</title>
+  <desc id="d">Software engineer and indie founder from Lagos. Builds products, then turns the repeatable parts into tools.</desc>
+  <defs>
+    <linearGradient id="panel" x1="28" y1="22" x2="1180" y2="398" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0C1017"/>
+      <stop offset="0.55" stop-color="#0A0D13"/>
+      <stop offset="1" stop-color="#08090E"/>
+    </linearGradient>
+    <linearGradient id="card" x1="812" y1="100" x2="1218" y2="352" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1119"/>
+      <stop offset="1" stop-color="#090C11"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#B9863A"/><stop offset="1" stop-color="#EBBB5A"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2E8A68"/><stop offset="1" stop-color="#54C79A"/>
+    </linearGradient>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#A5432F"/><stop offset="1" stop-color="#D46A50"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8E3D8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E8E3D8" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#E8E3D8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="wash" cx="0.24" cy="0.28" r="0.75">
+      <stop offset="0" stop-color="#1C2634" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0A0D13" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#D9A441" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#D9A441" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-160%" width="160%" height="420%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="28" y="22" width="1224" height="376" rx="22"/></clipPath>
+    <style>
+      .m { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; }
+      .disp { font-family: Georgia, "Iowan Old Style", "Times New Roman", "Times", serif; }
+      @keyframes pulse { 0%,100%{opacity:.3} 50%{opacity:1} }
+      @keyframes blink { 0%,48%{opacity:1} 49%,100%{opacity:0} }
+      @keyframes sweep { 0%{transform:translateX(-420px)} 100%{transform:translateX(1320px)} }
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      .caret{animation:blink 1.1s steps(1) infinite}
+      .sheen{animation:sweep 9s linear infinite}
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" fill="#08090C"/>
+  <rect x="28" y="22" width="1224" height="376" rx="22" fill="url(#panel)" stroke="#171E29"/>
+
+  <g clip-path="url(#clip)">
+    <rect x="28" y="22" width="1224" height="376" fill="url(#wash)"/>
+    <g opacity="0.6" stroke="#101722">
+      <path d="M182 22V398M342 22V398M502 22V398M662 22V398M822 22V398M982 22V398M1142 22V398"/>
+      <path d="M28 138H1252M28 254H1252"/>
+    </g>
+    <ellipse cx="300" cy="185" rx="260" ry="150" fill="url(#halo)"/>
+    <rect class="sheen" x="-420" y="22" width="300" height="376" fill="url(#sheen)"/>
+  </g>
+
+  <!-- top bar -->
+  <circle cx="62" cy="50" r="6" fill="#C4553D"/>
+  <circle cx="82" cy="50" r="6" fill="#D9A441"/>
+  <circle cx="102" cy="50" r="6" fill="#3FB68B"/>
+  <text class="m" x="128" y="55" font-size="13" fill="#8A6E38">benrobo</text>
+  <text class="m" x="192" y="55" font-size="13" fill="#3A424E">~/building</text>
+  <text class="m" x="1218" y="55" font-size="13" fill="#3A424E" text-anchor="end">lagos, ng · UTC+1</text>
+  <line x1="62" y1="74" x2="1218" y2="74" stroke="#141B25"/>
+
+  <!-- left column -->
+  <text class="m" x="63" y="114" font-size="12" letter-spacing="3.2" fill="#6B7581">SOFTWARE ENGINEER · INDIE FOUNDER</text>
+  <text class="disp" x="60" y="182" font-size="60" font-weight="700" fill="#EAE5DA">Benaiah Alumona</text>
+  <text class="m" x="63" y="216" font-size="16" fill="#D9A441">i build products, then turn what repeats into tools.</text>
+  <text class="m" x="63" y="244" font-size="13.5" fill="#78828F">backend · products · ai systems · mobile · developer tooling</text>
+
+  <g transform="translate(62 266)">
+    <rect width="150" height="30" rx="15" fill="#0C1620" stroke="#1E3A31"/>
+    <circle class="pulse" cx="19" cy="15" r="4.5" fill="#3FB68B"/>
+    <text class="m" x="34" y="19.5" font-size="13" fill="#8FDCBB">open to build</text>
+  </g>
+
+  <g transform="translate(62 318)" class="m" font-size="12.5" fill="#C6CBD2">
+    <rect width="100" height="30" rx="8" fill="#0C1017" stroke="#1D2632"/>
+    <circle cx="17" cy="15" r="3.8" fill="#54C79A"/><text x="29" y="19.5">TypeScript</text>
+    <rect x="110" width="58" height="30" rx="8" fill="#0C1017" stroke="#1D2632"/>
+    <circle cx="127" cy="15" r="3.8" fill="#79A7D8"/><text x="139" y="19.5">Go</text>
+    <rect x="178" width="72" height="30" rx="8" fill="#0C1017" stroke="#1D2632"/>
+    <circle cx="195" cy="15" r="3.8" fill="#54C79A"/><text x="207" y="19.5">React</text>
+    <rect x="260" width="66" height="30" rx="8" fill="#0C1017" stroke="#1D2632"/>
+    <circle cx="277" cy="15" r="3.8" fill="#D46A50"/><text x="289" y="19.5">Hono</text>
+    <rect x="336" width="72" height="30" rx="8" fill="#0C1017" stroke="#1D2632"/>
+    <circle cx="353" cy="15" r="3.8" fill="#EBBB5A"/><text x="365" y="19.5">AI/MCP</text>
+  </g>
+
+  <!-- right telemetry card -->
+  <g>
+    <rect x="812" y="100" width="406" height="252" rx="18" fill="url(#card)" stroke="#182130"/>
+    <text class="m" x="834" y="133" font-size="12.5" fill="#59636F">// what i build</text>
+    <circle class="pulse" cx="1163" cy="128.5" r="3.5" fill="#3FB68B"/>
+    <text class="m" x="1177" y="133" font-size="11.5" fill="#59636F">live</text>
+    <line x1="834" y1="147" x2="1196" y2="147" stroke="#141C26"/>
+
+    <text class="m" x="834" y="178" font-size="13" fill="#98A3B0">backend systems</text>
+    <text class="m" x="1196" y="178" font-size="11" fill="#455060" text-anchor="end">core</text>
+    <rect x="834" y="186" width="362" height="6" rx="3" fill="#101720"/>
+    <rect x="834" y="186" height="6" rx="3" fill="url(#gold)" filter="url(#glow)" width="326"><animate attributeName="width" values="0;326" dur="1.1s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+
+    <text class="m" x="834" y="220" font-size="13" fill="#98A3B0">product &amp; ui</text>
+    <rect x="834" y="228" width="362" height="6" rx="3" fill="#101720"/>
+    <rect x="834" y="228" height="6" rx="3" fill="url(#green)" filter="url(#glow)" width="266"><animate attributeName="width" values="0;266" dur="1.1s" begin="0.32s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+
+    <text class="m" x="834" y="262" font-size="13" fill="#98A3B0">ai systems</text>
+    <rect x="834" y="270" width="362" height="6" rx="3" fill="#101720"/>
+    <rect x="834" y="270" height="6" rx="3" fill="url(#gold)" filter="url(#glow)" width="298"><animate attributeName="width" values="0;298" dur="1.1s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+
+    <text class="m" x="834" y="304" font-size="13" fill="#98A3B0">tooling &amp; infra</text>
+    <rect x="834" y="312" width="362" height="6" rx="3" fill="#101720"/>
+    <rect x="834" y="312" height="6" rx="3" fill="url(#clay)" filter="url(#glow)" width="228"><animate attributeName="width" values="0;228" dur="1.1s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1"/></rect>
+
+    <line x1="834" y1="330" x2="1196" y2="330" stroke="#141C26"/>
+    <text class="m" x="834" y="348" font-size="12" fill="#D9A441">23+ hackathons</text>
+    <text class="m" x="960" y="348" font-size="12" fill="#3FB68B">15 wins</text>
+    <text class="m" x="1042" y="348" font-size="12" fill="#C4553D">3rd / 3,000 gemini</text>
+  </g>
+
+  <path d="M42 38H56M42 38V52" stroke="#2A3546" stroke-width="1.5" opacity="0.7"/>
+  <path d="M1238 382H1224M1238 382V368" stroke="#2A3546" stroke-width="1.5" opacity="0.7"/>
+</svg>
