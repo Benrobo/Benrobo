@@ -112,38 +112,7 @@ Half of them are experiments, a few are load-bearing. queueflow, prospark, 4snap
 
 ## Track record
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 15
-hackathons won<br/><sub>out of 23+ entered</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 3rd
-of 3,000<br/><sub>Google Gemini API competition</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 2x
-CodeJam winner<br/><sub>TechWithTim</sub>
-
-</td>
-<td align="center" width="25%">
-
-### top 300
-globally, twice<br/><sub>out of 11,000+ participants</sub>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Benrobo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-</p>
+<img src="https://raw.githubusercontent.com/Benrobo/Benrobo/main/assets/track.svg?v=1" width="100%" alt="15 hackathon wins out of 23+ entered. 3rd of 3,000 in Google's Gemini API competition. 2x TechWithTim CodeJam winner. Top 300 globally, twice, out of 11,000+ participants." />
 
 <details>
 <summary><b>Where I have worked</b></summary>
