@@ -28,11 +28,8 @@ I'm a chef who cooks, but not in the kitchen. I solve problems for a living usin
 
 I write software for a living, for fun, and lately mostly for myself. Six years in, self-taught. Backend first, frontend because the backend needs a face, DevOps because nobody else was going to do it. I run a small company out of Lagos called **Brivon Core** and ship products under it. Most are small. A few make money. All of them are actually live, which turns out to be the hard part.
 
-My GitHub bio says *"I dont know what i'm doing."* Still true, and I have made peace with it.
-
 ```txt
   location   Lagos, Nigeria (UTC+1)
-  company    Brivon Core, founder
   studying   B.Sc Computer Science, NOUN, finishing late 2026
   default    TypeScript everywhere, Go when it needs to be fast
   building   ScribeAI, Elorah, Cue, RenderOG
